@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="439ac6cf-c599-41bc-a48d-f70bfc8b376f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learnwiremock/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learnwiremock/constants/MoviesAppConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learnwiremock/dto/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learnwiremock/exception/MovieErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/learnwiremock/service/MoviesRestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/learnwiremock/service/MoviesRestClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/__files/404-moviename.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/__files/add-movie-template-approach1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/__files/add-movie-template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/__files/add-movie.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/__files/all-movies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/__files/avengers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/__files/movie-byName-template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/__files/movie-template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/__files/movie.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/__files/updatemovie-template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/__files/year-template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies-app/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies-app/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies-app/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies-app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies-app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies-app/src/main/java/com/learnwiremock/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies-app/src/main/java/com/learnwiremock/constants/MovieAppConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies-app/src/main/java/com/learnwiremock/dto/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies-app/src/main/java/com/learnwiremock/exception/MovieErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies-app/src/main/java/com/learnwiremock/service/MoviesRestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies-app/src/test/java/com/learnwiremock/service/MoviesRestClientTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3CBFGs3IF9lh1AYcccQ2Mp6edjZ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.MoviesRestClientTest.addMovie.executor": "Run",
+    "JUnit.MoviesRestClientTest.addMovie_badRequest.executor": "Run",
+    "JUnit.MoviesRestClientTest.addMovie_responseTemplating_approach1.executor": "Run",
+    "JUnit.MoviesRestClientTest.deleteMovie.executor": "Run",
+    "JUnit.MoviesRestClientTest.deleteMovieByName.executor": "Run",
+    "JUnit.MoviesRestClientTest.deleteMovieByName_selectiveproxying.executor": "Run",
+    "JUnit.MoviesRestClientTest.deleteMovie_NotFound.executor": "Run",
+    "JUnit.MoviesRestClientTest.executor": "Run",
+    "JUnit.MoviesRestClientTest.retrieveAllMovies.executor": "Run",
+    "JUnit.MoviesRestClientTest.retrieveAllMovies_matchesUrl.executor": "Run",
+    "JUnit.MoviesRestClientTest.retrieveMovieById.executor": "Run",
+    "JUnit.MoviesRestClientTest.retrieveMovieById_notFound.executor": "Run",
+    "JUnit.MoviesRestClientTest.retrieveMovieById_reponseTemplating.executor": "Run",
+    "JUnit.MoviesRestClientTest.retrieveMovieById_responseTemplating.executor": "Run",
+    "JUnit.MoviesRestClientTest.retrieveMovieByName_responeTemplating.executor": "Run",
+    "JUnit.MoviesRestClientTest.retrieveMoviebyName.executor": "Run",
+    "JUnit.MoviesRestClientTest.retrieveMoviebyName_Not_Found.executor": "Run",
+    "JUnit.MoviesRestClientTest.retrieveMoviebyYear.executor": "Run",
+    "JUnit.MoviesRestClientTest.retrieveMoviebyYear_not_found.executor": "Run",
+    "JUnit.MoviesRestClientTest.updateMovie.executor": "Run",
+    "JUnit.MoviesRestClientTest.updateMovie_notFound.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.movies-app-final [clean,install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/prats/Documents/Prateek/wiremock-for-java-developers/movies-app-final/src/test/resources/__files"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/__files" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/learnwiremock/service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/__files" />
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MoviesRestClientTest">
+    <configuration name="MoviesRestClientTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movies-app-final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learnwiremock.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learnwiremock.service" />
+      <option name="MAIN_CLASS_NAME" value="com.learnwiremock.service.MoviesRestClientTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoviesRestClientTest.deleteMovie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movies-app-final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learnwiremock.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learnwiremock.service" />
+      <option name="MAIN_CLASS_NAME" value="com.learnwiremock.service.MoviesRestClientTest" />
+      <option name="METHOD_NAME" value="deleteMovie" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoviesRestClientTest.deleteMovieByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movies-app-final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learnwiremock.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learnwiremock.service" />
+      <option name="MAIN_CLASS_NAME" value="com.learnwiremock.service.MoviesRestClientTest" />
+      <option name="METHOD_NAME" value="deleteMovieByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoviesRestClientTest.deleteMovieByName_selectiveproxying" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movies-app-final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learnwiremock.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learnwiremock.service" />
+      <option name="MAIN_CLASS_NAME" value="com.learnwiremock.service.MoviesRestClientTest" />
+      <option name="METHOD_NAME" value="deleteMovieByName_selectiveproxying" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoviesRestClientTest.deleteMovie_NotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movies-app-final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learnwiremock.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learnwiremock.service" />
+      <option name="MAIN_CLASS_NAME" value="com.learnwiremock.service.MoviesRestClientTest" />
+      <option name="METHOD_NAME" value="deleteMovie_NotFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MoviesRestClientTest" />
+        <item itemvalue="JUnit.MoviesRestClientTest.deleteMovieByName" />
+        <item itemvalue="JUnit.MoviesRestClientTest.deleteMovie_NotFound" />
+        <item itemvalue="JUnit.MoviesRestClientTest.deleteMovieByName_selectiveproxying" />
+        <item itemvalue="JUnit.MoviesRestClientTest.deleteMovie" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="439ac6cf-c599-41bc-a48d-f70bfc8b376f" name="Changes" comment="" />
+      <created>1775850969863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775850969863</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:junit:junit" />
+    <option featureType="dependencySupport" implementationName="java:com.github.tomakehurst:wiremock" />
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/learnwiremock/service/MoviesRestClientTest.java</url>
+          <line>274</line>
+          <properties class="com.learnwiremock.service.MoviesRestClientTest" method="addMovie">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
