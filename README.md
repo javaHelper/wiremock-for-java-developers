@@ -6,6 +6,10 @@ This repository has the code to explore for the wiremock course.
   - **movies-app** - This codebase has the RestClients built with Spring WebClient and the automated test cases interact with the actual **movies-restful-service**.
   - **movies-restful-service** - This codebase has the RestClients built with Spring WebClient and the automated test cases interact with the actual **movies-restful-service**.
 
+```java
+java -jar movies-restful-service.jar
+```
+
 
 ## Movies RestFul Service
 
